@@ -3,3 +3,11 @@ Icon?
 .vercel
 qa-artifacts
 *.log
+
+# Local Google Business Profile handoff pack
+GMB-INFO.txt
+SOURCES.txt
+logo/
+cover-photos/
+business-photos/
+.env*
