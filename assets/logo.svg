@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Velvet Wheel logo</title>
+  <desc id="desc">A velvet blue wheel surrounding a precise V-shaped finish mark</desc>
+  <rect width="120" height="120" rx="28" fill="#24152B"/>
+  <circle cx="60" cy="60" r="35" fill="none" stroke="#E7E1E9" stroke-width="10"/>
+  <circle cx="60" cy="60" r="20" fill="none" stroke="#4D8DFF" stroke-width="4" stroke-dasharray="20 8"/>
+  <path d="M39 43 60 78 81 43" fill="none" stroke="#D4A84F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
