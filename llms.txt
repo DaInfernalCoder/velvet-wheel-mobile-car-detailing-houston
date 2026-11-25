@@ -1,0 +1,26 @@
+# Velvet Wheel Mobile Car Detailing Houston
+
+> Appointment-based mobile car detailing in Spring, Texas.
+
+## Primary pages
+- [Homepage](https://velvetwheel.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://velvetwheel.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://velvetwheel.shop/#local-detailing): How mobile detailing works in Spring.
+
+## Verified business facts
+- Business name: Velvet Wheel Mobile Car Detailing Houston
+- Primary service area: Spring, Texas
+- Telephone: +1 346-590-6338
+- Service: Appointment-based mobile car detailing
+- Booking: https://cal.com/sumitdatta/auto-detail-service
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://velvetwheel.shop/services/)
+- [Interior Car Detailing](https://velvetwheel.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://velvetwheel.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://velvetwheel.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://velvetwheel.shop/services/headlight-restoration/)
+- [About](https://velvetwheel.shop/about/)
+- [Contact](https://velvetwheel.shop/contact/)
+<!-- SEO-NEXT:END -->
