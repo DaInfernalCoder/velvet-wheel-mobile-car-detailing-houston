@@ -14,3 +14,4 @@ node_modules
 /scripts/render_logo.py
 /scripts/preflight_site.py
 /scripts/check_live.py
+.github
